@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{
+    background-color: rgb(44, 44, 44);
+    width: 80%;
+    margin: auto;
+}
+
+footer{
+    background-color: rgb(44, 44, 44);
+}
